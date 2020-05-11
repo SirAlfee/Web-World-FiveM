@@ -1,2 +1,2 @@
-cd C:\Users\beast\Desktop\five_m\server-data
-C:\Users\beast\Desktop\five_m\server\FXServer.exe +exec server.cfg 
+cd C:\Users\hiltb\OneDrive\Documents\GitHub\Web-World-FiveM\FIVEM\server-data
+C:\Users\hiltb\OneDrive\Documents\GitHub\Web-World-FiveM\FIVEM\server\FXServer.exe +exec server.cfg 
